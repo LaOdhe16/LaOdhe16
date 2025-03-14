@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salvado Agus Firmansyah Ode</h1>
 <h3 align="center">A Student computer engineering</h3>
 
-<p align="left"> <a href="https://twitter.com/odheleo" target="blank"><img src="https://img.shields.io/twitter/follow/odheleo?logo=twitter&style=for-the-badge" alt="odheleo" /></a> </p>
-
 - 🔭 I’m currently working on [Flappy Bird](https://github.com/LaOdhe16/Projek-Game-Flappy-Bird.git)
 
 - 🌱 I’m currently learning **Flutter**
