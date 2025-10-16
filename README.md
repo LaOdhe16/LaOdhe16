@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with [DeepSeek](https://www.deepseek.com/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/LaOdhe16](https://github.com/LaOdhe16)
 
 - 💬 Ask me about **python**
