@@ -57,8 +57,8 @@
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF003C"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LaOdhe16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=LaOdhe16&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF003C"/>
 </p>
 
 ---
