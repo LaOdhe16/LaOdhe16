@@ -78,13 +78,13 @@
   <a href="mailto:aryabutur94@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF003C">
   </a>
-  <a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/salvado-odhe-306369356/">
+  <a href="https://www.linkedin.com/in/salvado-odhe-306369356/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
   </a>
-  <a href="https://instagram.com/yourusername](https://www.instagram.com/elsalvtoreee/">
+  <a href="https://www.instagram.com/elsalvtoreee/">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=FF003C">
   </a>
-  <a href="https://yourportfolio.com](https://my-port-lac-beta.vercel.app/">
+  <a href="https://my-port-lac-beta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF9C">
   </a>
 </p>
