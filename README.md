@@ -1,32 +1,100 @@
-<h1 align="center">Hi 👋, I'm Salvado Agus Firmansyah Ode</h1>
-<h3 align="center">A Student computer engineering</h3>
+<!-- HEADER -->
+<h1 align="center">Salvado Agus Firmansyah Ode</h1>
 
-- 🔭 I’m currently working on [Flappy Bird](https://github.com/LaOdhe16/Projek-Game-Flappy-Bird.git)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/LaOdhe16](https://github.com/LaOdhe16)
-
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **aryabutur94@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/LaOdhe16](https://github.com/LaOdhe16)
-
-- ⚡ Fun fact **I Think i crazy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/odheleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odheleo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salvado odhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salvado odhe" height="30" width="40" /></a>
-<a href="https://instagram.com/salvatooddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salvatooddd" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Enthusiast;Web+%26+Android+Pentester;CTF+Player&center=true&width=500&height=40&color=00F7FF">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00F7FF">
+  <img src="https://img.shields.io/badge/Web%20Pentest-0d1117?style=for-the-badge&logoColor=FF003C">
+  <img src="https://img.shields.io/badge/Android%20Pentest-0d1117?style=for-the-badge&logoColor=00FF9C">
+  <img src="https://img.shields.io/badge/CTF%20Player-0d1117?style=for-the-badge&logoColor=B026FF">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laodhe16&show_icons=true&locale=en&layout=compact" alt="laodhe16" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laodhe16&show_icons=true&locale=en" alt="laodhe16" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laodhe16&" alt="laodhe16" /></p>
+## 🧠 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Focus-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web%20Pentesting-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Android%20Security-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CTF%20Player-0d1117?style=for-the-badge">
+</p>
+
+<p align="center">
+  Passionate about discovering vulnerabilities, exploiting systems ethically,<br>
+  and strengthening security through real-world penetration testing.
+</p>
+
+---
+
+## ⚔️ Core Expertise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,github" />
+</p>
+
+---
+
+## 🛠️ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SQLMap-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MobSF-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frida-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/YARA-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge">
+</p>
+
+---
+
+## 📊 GitHub Activity
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF003C"/>
+</p>
+
+---
+
+## 🧬 Programming Footprint
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LaOdhe16&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://github.com/LaOdhe16">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF">
+  </a>
+  <a href="mailto:aryabutur94@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF003C">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/salvado-odhe-306369356/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF">
+  </a>
+  <a href="https://instagram.com/yourusername](https://www.instagram.com/elsalvtoreee/">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=FF003C">
+  </a>
+  <a href="https://yourportfolio.com](https://my-port-lac-beta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF9C">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=80"/>
+</p>
+
+<p align="center">
+  <i>Think like an attacker. Build like a defender.</i>
+</p>
