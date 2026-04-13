@@ -70,6 +70,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LaOdhe16/LaOdhe16/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🌐 Connect
 <p align="center">
   <a href="https://github.com/LaOdhe16">
